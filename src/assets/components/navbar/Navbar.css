@@ -1,0 +1,19 @@
+.nav-bar {
+  padding: 16px 0;
+  width: 100%;
+}
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo h1 span {
+  color: red;
+}
+
+.menu {
+  align-self: self-end;
+}
